@@ -1,0 +1,142 @@
+ body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;   
+    font-size: 16px;
+line-height: 1.5;
+text-decoration-line: none;
+
+}
+
+/*=====================COMPONENTS====================*/
+.logo {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.33;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4D5AE5;
+
+    text-decoration-line: none;    
+    }
+
+.logo1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.33;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+    text-decoration-line: none;
+}  
+.logo-footer {
+    color: #F4F4FD;  
+}
+
+    .head-title {
+font-weight: 700;
+font-size: 56px;
+line-height: 1.07;
+text-align: center;
+letter-spacing: 0.02em;
+color: #FFFFFF;}
+
+    .title {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.1;
+        letter-spacing: 0.02em;
+        color:#2E2F42
+        }
+
+ .title1 {
+ font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+ color: #2E2F42 
+}      
+        .suptitle {
+        font-weight: 400;
+        letter-spacing: 0.02em;
+        color: #434455; }
+/*=====================/COMPONENTS====================*/
+
+/*=====================HEADER====================*/
+
+
+
+
+.menu-link {
+font-style: normal;    
+letter-spacing: 0.02em;
+color: #434455;
+text-decoration-line: none;
+}
+.menu-link:hover,
+.menu-link:focus {
+/* OCEAN */
+color: #404BBF;
+text-decoration-line: none;
+}
+
+.menu-item {
+ list-style-type: none;
+ text-decoration-line: none;
+}
+
+
+.mailto {
+font-weight: 400;
+font-style: normal;
+letter-spacing: 0.02em;
+color: #434455;   
+text-decoration-line: none;    
+}
+
+.mailto:hover,
+.mailto:focus {
+color: #404BBF;
+}
+/*=====================/HEADER====================*/
+.site-menu:hover,
+.site-menu:focus {
+/* background-color: #404BBF; */
+color: #FFFFFF;
+}
+.site-menu {
+color: #4D5AE5;
+text-decoration-line: none;
+}
+.hero-but {
+    color:#FFFFFF;
+    text-decoration-line: none;
+ background: #4D5AE5;   
+
+    }
+.hero-but:hover,
+.hero-but:focus {
+ background: #404BBF;
+ cursor: pointer;   
+}
+.but-site-menu {
+    color:#4D5AE5;
+    text-decoration-line: none;
+ background: #F4F4FD;    
+}
+.but-site-menu:hover,
+.but-site-menu:focus{
+background-color: #4D5AE5;
+color: #FFFFFF;
+cursor: pointer;
+}
+/* Body */
+
+.sup-footer {
+font-weight: 400;
+letter-spacing: 0.02em;
+color: #E7E9FC;  }
