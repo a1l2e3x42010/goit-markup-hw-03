@@ -140,3 +140,27 @@ cursor: pointer;
 font-weight: 400;
 letter-spacing: 0.02em;
 color: #E7E9FC;  }
+/* Contener */
+.contener {
+  width: 1128px; 
+  /* height: 420px;  */
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #E7E9FC;
+}
+.card-set {
+  outline: 1px solid tomato; 
+padding: 0;  
+margin: 0;
+list-style: none;
+display: flex;
+flex-wrap: wrap;
+flex-basis: calc(100 / 3 - 20px);
+margin-left: 20px;
+margin-right: 20px;
+margin-top:20px ;
+  
+}
+.card-item {
+
+}
